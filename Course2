@@ -7,3 +7,11 @@ You can choose one module from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Manisha Shedge
+Divide and Conquer Algorithms
+This technique can be broken down into three sections:
+Divide: This entails breaking the problem down into smaller chunks.
+Conquer: Recursively solve sub-problems until they're all solved.
+Combine the sub-issues to achieve the overall problem's final answer.
